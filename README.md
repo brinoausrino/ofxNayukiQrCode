@@ -1,3 +1,3 @@
 # ofxNayukiQrCode
 
-Wrapping the [https://github.com/nayuki/QR-Code-generator](QR-Code Generator) from [https://www.nayuki.io/](Nayuki) for openFrameworks.
+Wrapping the [QR-Code Generator](https://github.com/nayuki/QR-Code-generator) from [Nayuki](https://www.nayuki.io/) for openFrameworks.
