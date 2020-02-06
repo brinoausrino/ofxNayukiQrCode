@@ -1,5 +1,7 @@
 # ofxNayukiQrCode
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d9lmabyo0lcqq1em?svg=true)](https://ci.appveyor.com/project/brinoausrino/ofxnayukiqrcode)
+
 ## Description
 
 Wraps the [QR-Code Generator](https://github.com/nayuki/QR-Code-generator) from [Nayuki](https://www.nayuki.io/) for [openFrameworks](https://openframeworks.cc).
